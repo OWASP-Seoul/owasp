@@ -6,4 +6,4 @@
 
 궁금한 사항이 있으시면 아래 연락처로 문의하여 주시기 바랍니다.
 
-youngjae.jeon@owasp.org
+[전영재 youngjae.jeon@owasp.org](mailto:youngjae.jeon@owasp.org)
